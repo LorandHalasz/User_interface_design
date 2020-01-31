@@ -1,0 +1,103 @@
+h1{
+    text-align: center;
+  }
+
+.page #descriere_sesizare{
+	margin-bottom: 10px;
+	padding: 2px;
+}
+
+#googleMap{
+	width: 96%;
+	height: 45%;
+}
+
+#tip{
+	margin-bottom: 0px;
+	margin-top: 15px;
+}
+
+.dropdown{
+	margin-bottom: 0px;
+	width: 96%;
+}
+
+.sesizare{
+	margin-left: 3%;
+	margin-top: -27%;
+}
+
+.filtrare{
+	text-align: center; 
+	vertical-align: middle; 
+}
+
+.check{
+	margin-left: 43%;
+}
+
+textarea{
+	width: 96%;
+	height: 80px;
+}
+
+.camera { 
+	width: 170px;
+	height: 145px;
+	margin-top: 2px;
+	margin-left: 60px;
+	margin-bottom: 15px;
+	position: center;
+}
+
+.anuleaza{
+	float: left;
+}
+
+.trimite{
+	float: right;
+	margin-right: 10px;;
+}
+
+button{
+	height: 50px;
+	width: 130px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.back{
+	clear: both;
+	margin-top: 35px;
+	margin-bottom: 10px;
+}
+
+
+#calendar_icon{
+	width: 30px;
+	height: 30px;
+	float:left;
+}
+
+#location_icon {
+	width: 30px;
+	height: 30px;
+}
+
+#calendar{
+	margin-top: 27%;
+}
+
+.page{
+	clear: both;
+}
+
+#footer{
+	margin-left: -17%;
+}
+
+#location{
+	width: 96%;
+	margin-bottom: 10px;
+}
+
